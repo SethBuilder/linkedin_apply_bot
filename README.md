@@ -7,8 +7,9 @@ If you feel like a robot applying for so many jobs on Linkedin. Why not use a bo
 
 ## Usage
 1. Download in.rb
-2. Fill in your linkedin username and password
-3. Run `ruby in.rb` on cmd or terminal
+2. gem install watir
+3. Fill in your linkedin username and password
+4. Run `ruby in.rb` on cmd or terminal
 
 That's it!
 
